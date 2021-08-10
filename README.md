@@ -8,14 +8,6 @@
 - 🥅 2021 Goals: to create an app and upload it on AppStore and get 500+ downloads!
 - ⚡ Random fact: I am fan of the Na'Vi team
 
-### Connect with me:
-
-[<img align="left" alt="https://balguzhinov.github.io/portfolio-website/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="https://www.youtube.com/channel/UCjRDCHZBlly8IJRHB1-Y0_w" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="https://twitter.com/_balguzhinov" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="https://www.linkedin.com/in/abay-balguzhinov-947722214/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="https://www.instagram.com/balguzh1nov/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
-
 <br />
 
 ### Languages and Tools:
