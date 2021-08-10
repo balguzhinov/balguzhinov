@@ -14,8 +14,8 @@
 [<img align="left" alt="https://www.youtube.com/channel/UCjRDCHZBlly8IJRHB1-Y0_w" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="https://twitter.com/_balguzhinov" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="https://www.linkedin.com/in/abay-balguzhinov-947722214/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="https://www.instagram.com/balguzh1nov/" width="22px" src="![image](https://user-images.githubusercontent.com/75177898/128901207-8bea0cf8-fea6-463c-b0e6-02dbdfd072fb.png)
-" />][instagram]
+[<img align="left" alt="https://www.instagram.com/balguzh1nov/" width="22px" src="https://user-images.githubusercontent.com/75177898/128901345-34b12a14-c64b-4f86-9cb7-21b91f17c95a.png
+"/>][instagram]
 
 <br />
 
