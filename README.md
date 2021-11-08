@@ -3,7 +3,7 @@
 ## I'm a second-year student at Astana IT University on the Software Engineering major!
 
 - 🔭 I am working on iOS Application!
-- 🌱 I’m currently studying Swift
+- 🌱 Currently studying Swift
 - 👯 I’m looking to collaborate with other Software Engineers
 - 🥅 2021 Goals: to create an app and upload it on AppStore and get 500+ downloads!
 - ⚡ Random fact: I am fan of the Na'Vi team
