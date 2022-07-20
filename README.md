@@ -28,7 +28,6 @@
 - [Financial Calculator for convenient calculation of income, expenses and savings](https://github.com/balguzhinov/Financial-Calculator)
 - [Receipt separator for dividing bills, tips between the people](https://github.com/balguzhinov/Splitting-Receipt)
 - [E-Commerce website](https://github.com/balguzhinov/E-Commerce)
-- [Digital menu](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
 - [To-Do list](https://balguzhinov.github.io/To-Do-List/)
 <!-- BLOG-POST-LIST:END -->
 
