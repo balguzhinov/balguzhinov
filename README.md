@@ -1,6 +1,6 @@
-### Hi there, I'm Balguzhinov Abay 👋
+### Hi there, I'm Abay 👋
 
-## I'm a student at Astana IT University on the Software Engineering major!
+## I'm a Software Engineer !
 
 - 🔭 I am working on iOS Application!
 - 🌱 Currently studying Swift
