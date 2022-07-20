@@ -1,6 +1,6 @@
 ### Hi there, I'm Abay 👋
 
-## I'm a Software Engineer !
+## I'm a Software Engineer!
 
 - 🔭 I am working on iOS Application!
 - 🌱 Currently studying Swift
